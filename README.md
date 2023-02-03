@@ -1,2 +1,6 @@
-# projetos
- Repositório de portfólio e projetos 
+# Seja Bem-vindo!
+ Abaixo você poderá encontrar alguns de meus projetos, desenvolvidos durante o meus estudos e aprendizados
+
+
+ 
+
