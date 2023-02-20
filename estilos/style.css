@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+   background-color: rgb(36, 36, 36);
+   height: 100vh;
+   text-align: center;
+   flex-direction: row;
+}
+
+header{
+    display: flex;
+    color: white;
+}
+
+div#nome{
+    float: left;
+}
+
+div#redes-sociais{
+    float: right;
+}
+
+main{
+    color: white;
+}
+
+main h1 {
+}
+
+p{
+    padding: 30px;
+}
+
+a{
+    padding: 20px;
+    border: solid white 10px;
+    text-decoration: none;
+    color: white;
+}
+
